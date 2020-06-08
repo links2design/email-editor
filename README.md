@@ -11,8 +11,8 @@ To get started, simply clone this repository and run `npm` to install dependenci
 
 ```
 # Clone the repository
-git clone https://github.com/links2design/artists.git
-cd artists
+git clone https://github.com/links2design/email-editor.git
+cd email-editor
 
 # Install dependencies
 npm install
