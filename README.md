@@ -5,6 +5,7 @@ This is the robust, fully featured email editor React app demo. The demo allows 
 - [Setup](#setup) - Follow these instructions to run the example email editor application.
 - [Features](#features) - Considerations when building a React-based email editor application for demo.
 
+
 ## Setup
 
 To get started, simply clone this repository and run `npm` to install dependencies. You may need to go over some basic configuration steps.
@@ -32,6 +33,7 @@ npm install
 # To start application run the following command
 npm start
 ```
+
 
 ## Features
 
