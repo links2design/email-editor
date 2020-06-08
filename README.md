@@ -1,6 +1,6 @@
-# Email Editor - Assigment
+# Email Editor - Demo
 
-This is the robust, fully featured email editor React app demo. The demo allows the visitor to create templates by adding text and images by simply drag and drop option. This README is a continuation of the article - pull down the master branch to complete code.
+This is the robust, fully featured email editor React app demo. The demo allows the visitor to create template by adding text and images with simple drag and drop option. This README is a continuation of the article - pull down the master branch to complete code.
 
 - [Setup](#setup) - Follow these instructions to run the example email editor application.
 - [Features](#features) - Considerations when building a React-based email editor application for demo.
@@ -9,15 +9,27 @@ This is the robust, fully featured email editor React app demo. The demo allows 
 
 To get started, simply clone this repository and run `npm` to install dependencies. You may need to go over some basic configuration steps.
 
+### Step 1 : Clone the repo
 ```
-# Clone the repository
+# Run the following command to clone the repository
 git clone https://github.com/links2design/email-editor.git
-cd email-editor
+```
 
-# Install dependencies
+### Step 2 : To go into the project folder 
+ ```
+ # Run the following command to get into the project directory
+ cd email-editor
+ ```
+
+### Step 3 : Install the dependencies 
+```
+# To install the dependencies run the following command
 npm install
+```
 
-# start application
+### Step 4 : Start application
+```
+# To start application run the following command
 npm start
 ```
 
